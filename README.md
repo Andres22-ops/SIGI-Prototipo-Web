@@ -5,8 +5,7 @@ Este repositorio corresponde al **prototipo de la aplicación web** (vista de es
 
 - **Curso:** Innovación Tecnológica – Universidad ECCI
 - **Docente:** Juan Sebastian Sanchez Gomez
-- **Integrantes:** Yeimmy Alejandra Sandoval Arias, Laura Valentina Castiblanco Puentes, Andrés Felipe Arias Hernandez, Lina Fernanda Andrade, Ana Maria Leal Martinez
-
+- **Integrantes:** Andres Felipe Arias Hernandez, Lina Fernanda Andrade, Laura Valentina Castiblanco Puentes, Ana Maria Leal Martinez, Yeimmy Alejandra Sandoval Arias.
 ---
 
 ## Objetivo
